@@ -6,9 +6,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Yeshan+Perera" alt="greeting" style="max-width:100%;height:auto;"/>
+# Hi 👋, I'm Yeshan Perera
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=750&height=30&lines=Discord+Bot+Dev+%2F+Application+Dev;Cybersecurity+%26+Networking+Enthusiast;Based+in+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="tagline" style="max-width:100%;height:auto;"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1200&repeat=true&color=39FF14&center=true&vCenter=true&width=500&height=30&lines=Discord+Bot+Dev+%2F+App+Dev;Cybersecurity+Enthusiast;Sri+Lanka" alt="tagline" style="max-width:100%;height:auto;"/>
 
 <br/>
 
