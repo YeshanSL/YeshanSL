@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1200&pause=300&color=1B3B6F&center=true&vCenter=true&repeat=true&width=350&height=25&lines=01001000+01000001+01000011+01001011" alt="matrix bits" />
-
-<img src="https://ui-avatars.com/api/?name=Yeshan+Perera&background=0A1128&color=39FF14&bold=true&size=120&font-size=0.4&rounded=true" width="110" style="max-width:100%;"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1800&pause=400&color=39FF14&background=0A1128FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=root%40kali%3A~%23+initiating+breach_sequence.sh;%3E+bypassing+firewall+...+%5B%23%23%23%23%23%23%23%23%23%23%5D+100%25;%3E+cracking+encryption+...+AES-256+%3A%3A+DONE;%3E+injecting+payload+...+OK;%3E+access+granted+%E2%80%94+welcome+to+the+mainframe_" alt="hacking sequence" style="max-width:100%;height:auto;"/>
 
 <br/>
 
@@ -193,4 +191,3 @@ jobs:
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3B6F,100:0A1128&height=100&section=footer" width="100%"/>
-
