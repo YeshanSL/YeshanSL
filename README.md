@@ -33,6 +33,12 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1000&pause=200&color=1B3B6F&center=true&vCenter=true&repeat=true&width=500&height=20&lines=--------------------------------------------" alt="scanline" />
+
+</div>
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=500&color=39FF14&background=0A1128FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=%3E+booting+system...+OK;%3E+loading+modules+%5Bdiscord.js%5D+%5Bpython%5D+%5Bnode.js%5D+%5Bjava%5D;%3E+scanning+network...+OK;%3E+access+granted+%E2%80%94+welcome%2C+YeshanSL_" alt="boot sequence" style="max-width:100%;height:auto;"/>
 
 </div>
@@ -40,6 +46,8 @@
 ---
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1600&pause=400&color=39FF14&center=true&vCenter=true&repeat=true&width=450&height=22&lines=%24+establishing_secure_connection..." alt="divider" />
 
 ### `>_` connect_with_me
 
@@ -62,6 +70,8 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1600&pause=400&color=39FF14&center=true&vCenter=true&repeat=true&width=400&height=22&lines=%24+loading_arsenal.sh..." alt="divider" />
+
 ### `>_` languages_and_tools
 
 <img src="https://skillicons.dev/icons?i=python,nodejs,discordjs,java,html,js,css,git,vscode,linux&theme=dark" />
@@ -72,6 +82,8 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1600&pause=400&color=39FF14&center=true&vCenter=true&repeat=true&width=400&height=22&lines=%24+sudo+./fuel_the_grind.sh" alt="divider" />
+
 ### `>_` support
 
 <a href="https://www.buymeacoffee.com/yeshansl">
@@ -81,6 +93,12 @@
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1600&pause=400&color=39FF14&center=true&vCenter=true&repeat=true&width=400&height=22&lines=%24+ls+-la+~%2Fprojects" alt="divider" />
+
+</div>
 
 ### `>_` popular_repositories
 
@@ -142,6 +160,12 @@ status: ★ active
 
 ---
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1600&pause=400&color=39FF14&center=true&vCenter=true&repeat=true&width=450&height=22&lines=%24+tracking_activity_log.sh" alt="divider" />
+
+</div>
+
 ### `>_` contribution_activity
 
 <div align="center">
@@ -191,3 +215,4 @@ jobs:
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3B6F,100:0A1128&height=100&section=footer" width="100%"/>
+
