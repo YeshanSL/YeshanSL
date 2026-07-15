@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://ui-avatars.com/api/?name=Yeshan+Perera&background=0A1128&color=39FF14&bold=true&size=120&font-size=0.4&rounded=true" width="110"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1200&pause=300&color=1B3B6F&center=true&vCenter=true&repeat=true&width=350&height=25&lines=01001000+01000001+01000011+01001011" alt="matrix bits" />
+
+<img src="https://ui-avatars.com/api/?name=Yeshan+Perera&background=0A1128&color=39FF14&bold=true&size=120&font-size=0.4&rounded=true" width="110" style="max-width:100%;"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Yeshan+Perera" alt="greeting" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Yeshan+Perera" alt="greeting" style="max-width:100%;height:auto;"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=Discord+Bot+Dev+%2F+Application+Dev;Cybersecurity+%26+Networking+Enthusiast;Based+in+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=750&height=30&lines=Discord+Bot+Dev+%2F+Application+Dev;Cybersecurity+%26+Networking+Enthusiast;Based+in+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="tagline" style="max-width:100%;height:auto;"/>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=YeshanSL&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS" />
 
@@ -16,21 +20,22 @@
 
 <div align="center">
 
-🔴🟡🟢 &nbsp;`YeshanSL:~$ About`
+🔴🟡🟢 &nbsp;`yeshan@kotte:~$ whoami`
 
 </div>
 
 ```bash
-> currently_learning  : Computer Science
-> studying_at         : Informatics Institute of Technology ( Sri lanka)
-> ask_me_about        : Discord bots Dev / Application & Web Dev
+> currently_learning : Networking & Cybersecurity
+> studying_at         : Informatics Institute of Technology
+> ask_me_about        : Discord bots & automation
 > reach_me            : Pdyeshan2005@gmail.com
 > fun_fact            : 21 y/o, still compiling...
+> status              : [ONLINE] available for opportunities
 ```
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=500&color=39FF14&background=0A1128FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=%3E+booting+system...+OK;%3E+loading+modules+%5Bdiscord.js%5D+%5Bpython%5D+%5Bnode.js%5D+%5Bjava%5D;%3E+scanning+network...+OK;%3E+access+granted+%E2%80%94+welcome%2C+YeshanSL_" alt="boot sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=500&color=39FF14&background=0A1128FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=%3E+booting+system...+OK;%3E+loading+modules+%5Bdiscord.js%5D+%5Bpython%5D+%5Bnode.js%5D+%5Bjava%5D;%3E+scanning+network...+OK;%3E+access+granted+%E2%80%94+welcome%2C+YeshanSL_" alt="boot sequence" style="max-width:100%;height:auto;"/>
 
 </div>
 
