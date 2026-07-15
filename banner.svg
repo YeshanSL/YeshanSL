@@ -1,0 +1,90 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+
+    <radialGradient id="orb1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#38bdf8" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+
+    <mask id="gridMask">
+      <rect width="1200" height="320" fill="url(#fade)"/>
+    </mask>
+    <radialGradient id="fade" cx="50%" cy="45%" r="70%">
+      <stop offset="0%" stop-color="white"/>
+      <stop offset="100%" stop-color="black"/>
+    </radialGradient>
+
+    <filter id="blur1"><feGaussianBlur stdDeviation="30"/></filter>
+
+    <style>
+      .fadeup { opacity: 0; animation: fadeUp 0.9s ease forwards; }
+      .d1 { animation-delay: 0.05s; }
+      .d2 { animation-delay: 0.2s; }
+      .d3 { animation-delay: 0.4s; }
+      .d4 { animation-delay: 0.6s; }
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(16px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      .cursor { animation: blink 1s step-end infinite; }
+      @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: 0; } }
+      .orbA { animation: floatA 9s ease-in-out infinite; }
+      .orbB { animation: floatB 11s ease-in-out infinite; }
+      @keyframes floatA { 0%,100% { transform: translate(0,0);} 50% { transform: translate(18px,-16px);} }
+      @keyframes floatB { 0%,100% { transform: translate(0,0);} 50% { transform: translate(-16px,14px);} }
+      .typeline { font-family: 'Courier New', monospace; }
+      text { font-family: 'Segoe UI', Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="320" fill="#080c14"/>
+  <rect width="1200" height="320" fill="url(#grid)" mask="url(#gridMask)"/>
+
+  <!-- glow orbs -->
+  <circle class="orbA" cx="980" cy="60" r="180" fill="url(#orb1)" filter="url(#blur1)"/>
+  <circle class="orbB" cx="180" cy="270" r="160" fill="url(#orb2)" filter="url(#blur1)"/>
+
+  <!-- tag pill -->
+  <g class="fadeup d1">
+    <rect x="500" y="42" width="200" height="30" rx="15" fill="#38bdf8" fill-opacity="0.10" stroke="#38bdf8" stroke-opacity="0.4"/>
+    <text x="600" y="62" text-anchor="middle" fill="#38bdf8" font-size="12" letter-spacing="2" class="typeline">AVAILABLE FOR WORK</text>
+  </g>
+
+  <!-- name -->
+  <g class="fadeup d2">
+    <text x="600" y="140" text-anchor="middle" font-size="58" font-weight="700" letter-spacing="-1">
+      <tspan fill="url(#nameGrad)">Yeshan</tspan>
+      <tspan fill="#e2e8f0"> Perera</tspan>
+    </text>
+  </g>
+
+  <!-- typed role line -->
+  <g class="fadeup d3">
+    <text x="600" y="185" text-anchor="middle" fill="#94a3b8" font-size="18" class="typeline">
+      &gt; IT Student | Cybersecurity &amp; Networking Enthusiast<tspan class="cursor" fill="#38bdf8">_</tspan>
+    </text>
+  </g>
+
+  <!-- bio -->
+  <g class="fadeup d4">
+    <text x="600" y="225" text-anchor="middle" fill="#64748b" font-size="14">
+      Building desktop tools, Discord bots, and learning networking &amp; security along the way.
+    </text>
+  </g>
+
+  <!-- bottom divider accent -->
+  <rect x="560" y="255" width="80" height="3" rx="1.5" fill="url(#nameGrad)" class="fadeup d4"/>
+</svg>
