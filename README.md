@@ -8,23 +8,27 @@
 
 ---
 
-### `>_` whoami
+### `>_` about_me
 
-```python
-class Yeshan:
-    def __init__(self):
-        self.username  = "YeshanSL"
-        self.role      = ["Discord Bot Developer", "Application Developer"]
-        self.location  = "Sri Lanka"
-        self.currently = "Building bots & apps that people actually use"
+<div align="center">
 
-    def say_hi(self):
-        return "Thanks for stopping by my profile!"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=500&color=39FF14&background=0A1128FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=140&lines=root%40yeshansl%3A~%24+whoami;%3E+Pathirage+Deneth+Yeshan+Perera;%3E+IT+Student+%7C+Cybersecurity+%26+Networking+Enthusiast;root%40yeshansl%3A~%24+cat+about.txt;%3E+Building+Discord+bots+%26+desktop+apps+since+2024;%3E+Based+in+Kotte%2C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;access+granted+..._" alt="terminal typing" />
+
+</div>
+
+```bash
+> STATUS........: Available for opportunities
+> FOCUS.........: Cybersecurity, Networking, Application Dev
+> STACK.........: Python, discord.js, Node.js, HTML, Java
+> LANGUAGES.....: Sinhala (native), English (fluent)
+> LOCATION......: Kotte, Sri Lanka [::1]
+> UPTIME........: 21 years, still compiling...
 ```
 
-- 🤖 I build custom **Discord bots** — moderation, economy, utility, you name it
-- 💻 I develop **applications** across web and desktop
-- 🌱 Always leveling up in new frameworks and tools
+- 🔐 Studying **Cybersecurity & Networking** while shipping real projects on the side
+- 🤖 I build custom **Discord bots** — leveling systems, session managers, stat trackers
+- 💻 I develop **desktop applications** for Windows (Python / PySide6 / Qt)
+- 🌱 Currently leveling up in networking, Java, and Node.js
 - 📫 Reach me through the links below
 
 ---
@@ -39,16 +43,46 @@ class Yeshan:
 
 ---
 
-### `>_` github_stats
+### `>_` github_summary
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YeshanSL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A1128&title_color=4FC3F7&icon_color=4FC3F7&text_color=c3d6e8&ring_color=1B3B6F" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeshanSL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A1128&title_color=4FC3F7&text_color=c3d6e8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YeshanSL&theme=tokyonight" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YeshanSL&theme=tokyonight" width="45%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YeshanSL&theme=tokyonight&hide_border=true&background=0A1128&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YeshanSL&theme=tokyonight" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YeshanSL&theme=tokyonight" width="45%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YeshanSL&theme=tokyonight&utcOffset=5.5" width="45%"/>
 
 </div>
+
+---
+
+### `>_` top_repos
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YeshanSL&repo=YeshanSL-InputX-Activity---Prefomance-Monitor-&theme=tokyonight&bg_color=0A1128&title_color=4FC3F7&text_color=c3d6e8&icon_color=4FC3F7&hide_border=true" width="100%"/>
+
+**inputX — Activity & Performance Monitor**
+Real-time Windows dashboard (PySide6/Qt) tracking CPU, RAM, disk, GPU, keyboard heatmap, mouse analytics, and controller input — with system tray integration and auto game detection.
+`Python` `PySide6` `psutil` `PyInstaller`
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YeshanSL&repo=NovaCore-Discord-Bot&theme=tokyonight&bg_color=0A1128&title_color=4FC3F7&text_color=c3d6e8&icon_color=4FC3F7&hide_border=true" width="100%"/>
+
+**NovaCore Suite — All-in-One Discord Bot**
+Welcome embeds, chat & voice leveling systems, and a Steam stats suite — all running on zero-database local storage for clean installs anywhere.
+`JavaScript` `Node.js` `discord.js` `Steam API`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -56,9 +90,48 @@ class Yeshan:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YeshanSL&theme=tokyo-night&hide_border=true&bg_color=0A1128&color=4FC3F7&line=4FC3F7&point=ffffff" width="100%"/>
+<img src="https://raw.githubusercontent.com/YeshanSL/YeshanSL/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
+
+> **One-time setup needed** to activate the snake animation above — takes 2 minutes:
+> 1. In your `YeshanSL/YeshanSL` repo, go to **Settings → Actions → General** and make sure Actions are enabled.
+> 2. Create the file `.github/workflows/snake.yml` with the contents below.
+> 3. Push it — the Action runs automatically and generates the animated SVG referenced above.
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: YeshanSL
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
 ---
 
@@ -66,17 +139,17 @@ class Yeshan:
 
 <div align="center">
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:Pdyeshan2005@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A1128?style=for-the-badge&logo=gmail&logoColor=4FC3F7" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin-handle">
+<a href="https://www.linkedin.com/in/yeshan-perera-b5b4ba247/">
   <img src="https://img.shields.io/badge/LinkedIn-0A1128?style=for-the-badge&logo=linkedin&logoColor=4FC3F7" />
 </a>
-<a href="https://your-website.com">
-  <img src="https://img.shields.io/badge/Website-0A1128?style=for-the-badge&logo=googlechrome&logoColor=4FC3F7" />
+<a href="https://yeshansl.github.io/Yeshan-perera/">
+  <img src="https://img.shields.io/badge/Portfolio-0A1128?style=for-the-badge&logo=googlechrome&logoColor=4FC3F7" />
 </a>
-<a href="https://discord.gg/your-invite">
-  <img src="https://img.shields.io/badge/Discord-0A1128?style=for-the-badge&logo=discord&logoColor=4FC3F7" />
+<a href="https://github.com/YeshanSL">
+  <img src="https://img.shields.io/badge/GitHub-0A1128?style=for-the-badge&logo=github&logoColor=4FC3F7" />
 </a>
 
 </div>
