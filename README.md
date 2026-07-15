@@ -1,4 +1,4 @@
-<div align="center">
+div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,100:1B3B6F&height=220&section=header&text=Yeshan%20Perera&fontSize=45&fontColor=4FC3F7&animation=fadeIn&fontAlignY=35&desc=Discord%20Bot%20Dev%20%7C%20Application%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
@@ -12,24 +12,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=500&color=39FF14&background=0A1128FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=140&lines=root%40yeshansl%3A~%24+whoami;%3E+Pathirage+Deneth+Yeshan+Perera;%3E+IT+Student+%7C+Cybersecurity+%26+Networking+Enthusiast;root%40yeshansl%3A~%24+cat+about.txt;%3E+Building+Discord+bots+%26+desktop+apps+since+2024;%3E+Based+in+Kotte%2C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;access+granted+..._" alt="terminal typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=600&color=39FF14&background=0A1128FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=root%40YeshanSL%3A~%24+whoami;%3E+Yeshan+Perera+%E2%80%94+Discord+Bot+Dev+%2F+Application+Dev;%3E+21+%7C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="terminal typing" />
 
 </div>
-
-```bash
-> STATUS........: Available for opportunities
-> FOCUS.........: Cybersecurity, Networking, Application Dev
-> STACK.........: Python, discord.js, Node.js, HTML, Java
-> LANGUAGES.....: Sinhala (native), English (fluent)
-> LOCATION......: Kotte, Sri Lanka [::1]
-> UPTIME........: 21 years, still compiling...
-```
-
-- 🔐 Studying **Cybersecurity & Networking** while shipping real projects on the side
-- 🤖 I build custom **Discord bots** — leveling systems, session managers, stat trackers
-- 💻 I develop **desktop applications** for Windows (Python / PySide6 / Qt)
-- 🌱 Currently leveling up in networking, Java, and Node.js
-- 📫 Reach me through the links below
 
 ---
 
@@ -43,17 +28,12 @@
 
 ---
 
-### `>_` github_summary
+### `>_` my_github_profile_stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YeshanSL&theme=tokyonight" width="45%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YeshanSL&theme=tokyonight" width="45%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YeshanSL&theme=tokyonight" width="45%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YeshanSL&theme=tokyonight" width="45%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YeshanSL&theme=tokyonight&utcOffset=5.5" width="45%"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YeshanSL&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0A1128&title_color=4FC3F7&icon_color=4FC3F7&text_color=c3d6e8&ring_color=4FC3F7" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeshanSL&layout=pie&theme=tokyonight&hide_border=true&bg_color=0A1128&title_color=4FC3F7&text_color=c3d6e8" />
 
 </div>
 
@@ -61,28 +41,16 @@
 
 ### `>_` top_repos
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YeshanSL&repo=YeshanSL-InputX-Activity---Prefomance-Monitor-&theme=tokyonight&bg_color=0A1128&title_color=4FC3F7&text_color=c3d6e8&icon_color=4FC3F7&hide_border=true" width="100%"/>
+<a href="https://github.com/YeshanSL/YeshanSL-InputX-Activity---Prefomance-Monitor-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YeshanSL&repo=YeshanSL-InputX-Activity---Prefomance-Monitor-&theme=tokyonight&bg_color=0A1128&title_color=4FC3F7&text_color=c3d6e8&icon_color=4FC3F7&hide_border=true&description_lines_count=2" width="47%"/>
+</a>
+<a href="https://github.com/YeshanSL/NovaCore-Discord-Bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YeshanSL&repo=NovaCore-Discord-Bot&theme=tokyonight&bg_color=0A1128&title_color=4FC3F7&text_color=c3d6e8&icon_color=4FC3F7&hide_border=true&description_lines_count=2" width="47%"/>
+</a>
 
-**inputX — Activity & Performance Monitor**
-Real-time Windows dashboard (PySide6/Qt) tracking CPU, RAM, disk, GPU, keyboard heatmap, mouse analytics, and controller input — with system tray integration and auto game detection.
-`Python` `PySide6` `psutil` `PyInstaller`
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YeshanSL&repo=NovaCore-Discord-Bot&theme=tokyonight&bg_color=0A1128&title_color=4FC3F7&text_color=c3d6e8&icon_color=4FC3F7&hide_border=true" width="100%"/>
-
-**NovaCore Suite — All-in-One Discord Bot**
-Welcome embeds, chat & voice leveling systems, and a Steam stats suite — all running on zero-database local storage for clean installs anywhere.
-`JavaScript` `Node.js` `discord.js` `Steam API`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -140,16 +108,25 @@ jobs:
 <div align="center">
 
 <a href="mailto:Pdyeshan2005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A1128?style=for-the-badge&logo=gmail&logoColor=4FC3F7" />
-</a>
-<a href="https://www.linkedin.com/in/yeshan-perera-b5b4ba247/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A1128?style=for-the-badge&logo=linkedin&logoColor=4FC3F7" />
-</a>
-<a href="https://yeshansl.github.io/Yeshan-perera/">
-  <img src="https://img.shields.io/badge/Portfolio-0A1128?style=for-the-badge&logo=googlechrome&logoColor=4FC3F7" />
+  <img src="https://img.shields.io/badge/-Get%20in%20Touch-4FC3F7?style=for-the-badge&logo=gmail&logoColor=0A1128&logoWidth=18" />
 </a>
 <a href="https://github.com/YeshanSL">
-  <img src="https://img.shields.io/badge/GitHub-0A1128?style=for-the-badge&logo=github&logoColor=4FC3F7" />
+  <img src="https://img.shields.io/badge/-View%20GitHub-0A1128?style=for-the-badge&logo=github&logoColor=4FC3F7&logoWidth=18" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/YeshanSL">
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=4FC3F7" height="45"/>
+</a>
+<a href="https://www.linkedin.com/in/yeshan-perera-b5b4ba247/">
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=4FC3F7" height="45"/>
+</a>
+<a href="mailto:Pdyeshan2005@gmail.com">
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=4FC3F7" height="45"/>
+</a>
+<a href="tel:+94769292662">
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=phone&logoColor=4FC3F7" height="45"/>
 </a>
 
 </div>
@@ -161,3 +138,4 @@ jobs:
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3B6F,100:0A1128&height=100&section=footer" width="100%"/>
+
