@@ -18,17 +18,16 @@
 
 <div align="center">
 
-🔴🟡🟢 &nbsp;`yeshan@kotte:~$ whoami`
+🔴🟡🟢 &nbsp;`YeshanSL:~$ About`
 
 </div>
 
 ```bash
-> currently_learning : Networking & Cybersecurity
-> studying_at         : Informatics Institute of Technology
-> ask_me_about        : Discord bots & automation
+> currently_learning : Computer Science
+> studying_at         : Informatics Institute of Technology (Sri Lanka)
+> ask_me_about        : Discord bots Dev & Application/Web Dev
 > reach_me            : Pdyeshan2005@gmail.com
 > fun_fact            : 21 y/o, still compiling...
-> status              : [ONLINE] available for opportunities
 ```
 
 <div align="center">
