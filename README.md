@@ -1,214 +1,174 @@
 <div align="center">
 
-# 👋 Hey, I'm Yeshan Perera
+# 👋 Yeshan Perera
 
 ### `Computer Science Student` · `Developer` · `Tech Enthusiast`
 
-> Building, breaking, learning, and creating the next project.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%3E+Initializing+YeshanSL...;%3E+Software+Developer;%3E+Building+the+future%2C+one+project+at+a+time." alt="Typing SVG" />
 
 </div>
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="YOUR_PROFILE_IMAGE_URL" width="250"/>
+
+### 👨‍💻 Yeshan Perera
+
+```text
+📍 Sri Lanka
+💻 Computer Science Student
+🚀 Software Developer
+🔐 Cybersecurity & Networking
+🌐 Web & Application Development
+```
+
+<br>
+
+<a href="https://yeshansl.github.io/Yeshan-perera/">
+🌐 Portfolio
+</a>
+
+<br><br>
+
+<a href="https://github.com/YeshanSL">
+GitHub Profile: @YeshanSL
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+# `> yeshan@github`
+
+```yaml
+OS: Windows
+Location: Sri Lanka 🇱🇰
+
+Role:
+  Computer Science Student
+  Software Developer
+
+Focus:
+  - Software Development
+  - Cybersecurity
+  - Networking
+  - Web Development
+  - AI & Technology
+
+Languages:
+  - Python
+  - JavaScript
+  - Java
+  - HTML
+  - CSS
+
+Frameworks:
+  - Node.js
+  - Next.js
+  - React
+  - FastAPI
+
+Tools:
+  - VS Code
+  - Git
+  - GitHub
+  - WSL
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `>_ skills --list`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,java,html,css,react,nextjs,nodejs,fastapi,git,github,vscode,linux&perline=7"/>
+
+</div>
+
+---
+
+# `>_ projects`
+
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│ 🔴 🟡 🟢  yeshan@system:~$ whoami                            │
+│ PROJECT STATUS                                               │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  Name       : Yeshan Perera                                  │
-│  Role       : Computer Science Student                       │
-│  Location   : Sri Lanka 🇱🇰                                   │
-│  Status     : Actively Learning & Building                   │
+│ 🎮 PlayCrew                                                  │
+│    Steam Stats Hub & Gaming Community Platform               │
+│    STATUS: ████████░░ IN DEVELOPMENT                         │
 │                                                              │
-│  Interests  : Software Development                           │
-│               Cybersecurity                                  │
-│               Networking                                     │
-│               Desktop & Web Applications                     │
+│ 🎛️ Mod Deck                                                  │
+│    Universal Controller Mapping for Windows                  │
+│    STATUS: ██████░░░░ DEVELOPMENT                            │
+│                                                              │
+│ 💼 TaxEase.LK                                                 │
+│    Digital Tax Management Platform                           │
+│    STATUS: ███████░░░ ACTIVE DEVELOPMENT                     │
+│                                                              │
+│ 📱 NexLink                                                   │
+│    Android ↔ Windows Connection & Screen Mirroring           │
+│    STATUS: █████░░░░░ CONCEPT                                │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-## `>_ about_me`
+---
 
-```python
-class Yeshan:
+## `>_ github_stats`
 
-    def __init__(self):
-        self.name = "Yeshan Perera"
-        self.role = "Computer Science Student"
-        self.location = "Sri Lanka"
+<div align="center">
 
-        self.interests = [
-            "Software Development",
-            "Cybersecurity",
-            "Networking",
-            "Web Development",
-            "Desktop Applications"
-        ]
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YeshanSL&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"/>
 
-    def current_status(self):
-        return "Learning. Building. Improving."
-```
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YeshanSL&theme=github-dark-blue&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeshanSL&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+
+</div>
 
 ---
 
-## `>_ tech_stack`
-
-### 💻 Programming
-
-`Python` • `JavaScript` • `Java` • `HTML` • `CSS`
-
-### ⚙️ Development
-
-`Node.js` • `discord.py` • `discord.js` • `PySide6`
-
-### 🛠️ Tools & Platforms
-
-`Git` • `GitHub` • `VS Code` • `Windows` • `WSL`
-
-### 🎨 Design
-
-`UI Design` • `Adobe Photoshop` • `GIMP` • `Video Editing`
-
----
-
-# 🚀 Featured Projects
-
-## 🖥️ inputX
+## `>_ system_status`
 
 ```text
-┌─ PROJECT: inputX ──────────────────────────────────────────┐
-│                                                             │
-│  Activity & Performance Monitor                             │
-│                                                             │
-│  A real-time Windows dashboard for monitoring:              │
-│                                                             │
-│  • CPU & RAM                                                │
-│  • GPU & Disk                                               │
-│  • Network Activity                                         │
-│  • Keyboard Heatmap                                         │
-│  • Mouse Analytics                                          │
-│  • Controller Input                                         │
-│                                                             │
-│  Stack: Python · PySide6 · psutil                           │
-│  Status: ● ACTIVE                                           │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🤖 NovaCore Suite
-
-```text
-$ cat project_info.txt
-
-NovaCore Suite
-────────────────────────────
-
-An all-in-one Discord bot featuring:
-
-> Custom welcome messages
-> Chat & reaction leveling
-> Voice activity tracking
-> Steam statistics
-> Local data storage
-
-stack  : JavaScript / Node.js / discord.js
-status : ★ active
-```
-
----
-
-## 🎮 MuteMaster
-
-```text
-$ ./launch MuteMaster
-
-[✓] Discord Bot Connected
-[✓] Voice Activity Monitoring
-[✓] Mute / Deafen Detection
-[✓] Session Tracking
-[✓] Scoreboards & Game Features
-
-SYSTEM STATUS: ONLINE
-```
-
-**Built with:** `Python` · `discord.py`
-
----
-
-## 💼 TaxEase.LK
-
-```text
-PROJECT: TaxEase.LK
-
-A digital tax management solution designed to
-simplify tax-related processes and compliance
-for users in Sri Lanka.
-
-Focus:
-[✓] User-Friendly Experience
-[✓] Modern UI
-[✓] Digital Tax Management
-
-STATUS: 🚧 IN DEVELOPMENT
-```
-
----
-
-## `>_ current_mission`
-
-```text
-[01] Improve problem-solving skills
-[02] Build real-world software projects
-[03] Explore Cybersecurity & Networking
-[04] Learn modern Web Development
-[05] Become a better developer every day
-
-Progress: ██████████░░░░░░░░░░  Learning...
-```
-
----
-
-## 📊 GitHub Activity
-
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   CODE. LEARN. BUILD. REPEAT.                │
-│                                              │
-│   Every project starts with an idea.         │
-│   Every bug teaches something new.           │
-│   Every line of code is progress.            │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
----
-
-## `>_ connect`
-
-```text
-Portfolio : Yeshan Perera Portfolio
-GitHub    : @YeshanSL
-Status    : Open to learning and opportunities
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   USER:        YeshanSL                                      ║
+║   STATUS:      ● ONLINE                                      ║
+║   LOCATION:    Sri Lanka                                     ║
+║                                                              ║
+║   CURRENT MISSION:                                           ║
+║                                                              ║
+║   [01] Learn new technologies                                ║
+║   [02] Build real-world projects                             ║
+║   [03] Improve problem-solving skills                        ║
+║   [04] Explore Cybersecurity                                 ║
+║   [05] Keep building 🚀                                      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
 <div align="center">
 
-### ⚡ `SYSTEM STATUS: ONLINE`
+## `while(alive) { learn(); build(); improve(); }`
 
-```text
-while(alive):
-    learn()
-    build()
-    improve()
-```
+<img src="https://komarev.com/ghpvc/?username=YeshanSL&label=PROFILE+VIEWS&color=blueviolet&style=flat"/>
 
-**Thanks for visiting my profile! 👨‍💻**
+<br><br>
+
+### ⚡ Thanks for visiting my digital space.
 
 </div>
-
